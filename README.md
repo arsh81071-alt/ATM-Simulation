@@ -1,0 +1,1 @@
+ATM SIMULATION   An ATM Simulation is a program that replicates basic banking operations like balance inquiry, cash withdrawal, deposit. It provides a user-friendly interface to simulate real-world ATM functionality.
